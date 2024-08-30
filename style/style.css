@@ -4,9 +4,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Passion+One:wght@400;700;900&family=Sriracha&display=swap');
 
 :root{
-    --fonte01: font-family: "Passion One", sans-serif;
-    --fonte02: font-family: "Sriracha", cursive;
+    --fonte01: "Passion One", sans-serif;
+    --fonte02: "Sriracha", cursive;
+    --color01: #fff;
+    --color02: #000;
               
 }
 
-
+body{
+    background-color: var(--color02);
+}
