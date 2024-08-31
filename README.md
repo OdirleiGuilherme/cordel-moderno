@@ -17,4 +17,4 @@ caso queira copiar, o cordel possui direitos autorais CC, vindo  a ser obrigado 
 Odirlei Guilherme
 
 ## Screenshot
-https://github.com/OdirleiGuilherme/cordel-moderno/issues/1#issue-2498575267
+![Cordel Moderno](https://github.com/user-attachments/assets/0ee41404-b472-4ea5-89dc-7954b469010f)
